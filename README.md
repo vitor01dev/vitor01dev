@@ -18,8 +18,3 @@
 ![SQLite](https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorverg97&show_icons=true&theme=dark)
-
-*Contador de visitas*
-(*Visits counter*)
-
-![VisitorCount](https://profile-counter.glitch.me/{Vitorverg97}/count.svg)
