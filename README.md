@@ -17,4 +17,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostegreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor01dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor01dev&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=vitor01dev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
